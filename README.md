@@ -78,37 +78,12 @@ More exciting projects coming soon...
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parthasarathisahoo-DeveloperE&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthasarathisahoo-Developer&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthasarathisahoo-Developer&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Parthasarathisahoo-Developer&theme=tokyonight&row=1&column=7"/>
-</p>
-
+ ## 📈 Contribution Graph
+ 
+ <p align="center"> 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthasarathisahoo-Developer&theme=tokyo-night"/>
+ </p>
+ 
 ---
 
 ## 🌐 Connect with Me
