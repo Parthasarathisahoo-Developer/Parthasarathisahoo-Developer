@@ -1,20 +1,147 @@
-Hi there, I'm Parthasarathi Sahoo 👋<br><br> 
- <pd>I'm a Computer Engineering student passionate about building real-world software solutions using AI, data, and modern web technologies. I enjoy turning ideas into practical projects while continuously learning and exploring new technologies.<br><br>🚀 What I'm Working On<br><br>* Building full-stack web applications with React.js and Supabase<br>* Learning Data Engineering and Backend Development<br>* Exploring Generative AI, Machine Learning, and Large Language Models (LLMs)<br>* Improving my Data Structures & Algorithms and problem-solving skills<br><br> 💻 Tech Stack<br><br>* **Languages:** Python, JavaScript, HTML, CSS<br>* **Frontend:** React.js, Tailwind CSS, Bootstrap<br>* **Backend & Database:** Supabase, REST APIs, MySQL<br>* **Tools:** Git, GitHub, VS Code, PyCharm<br>* **Learning:** Data Engineering, Cloud Computing, AI/ML<br><br> 📌 Featured Projects<br><br>* 📈 Sales Forecasting using LSTM, XGBoost, and SARIMA<br>* 🔐 Random Password Generator<br>* 🐍 Snake Water Gun Game<br>* 🍽️ Zomato Clone (Frontend)<br><br>🌱 Currently Learning<br><br>* Advanced React.js<br>* Supabase Authentication & Edge Functions<br>* Backend Development<br>* Data Engineering Concepts<br><br> 🎯 Goals<br><br>* Contribute to Open Source<br>* Build impactful AI-powered applications<br>* Secure Software Development and Data Engineering internships<br>* Continuously learn and grow as a developer<br><br>📫 Feel free to explore my repositories, share feedback, or connect with me. I'm always excited to learn, collaborate, and build something meaningful.<br>
+<h1 align="center">Hi 👋, I'm Parthasarathi Sahoo</h1>
+<h3 align="center">Computer Engineering Student | AI & Data Enthusiast | Full Stack Developer</h3>
 
-
-🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parthasarathi-sahoo-55a353315?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthasarathisahoo376@gmail.com) 
-
- 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Parthasarathisahoo-Developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Parthasarathisahoo-Developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parthasarathisahoo-Developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Data+Engineering+Learner;React+%7C+Supabase+Developer;Always+Learning+New+Things&center=true&width=650&height=45">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Parthasarathisahoo-Developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 Computer Engineering Student
+
+💡 Passionate about AI, Machine Learning, Data Engineering, and Full Stack Development
+
+🌱 Currently learning
+- React.js
+- Supabase
+- Backend Development
+- Data Engineering
+- Cloud Computing
+
+🚀 Building real-world projects using AI and modern web technologies.
+
+🎯 Goal: Become a Software Engineer and Data Engineer while contributing to Open Source.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,nodejs" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- ⚛️ React.js
+- 🔥 Supabase Authentication & Edge Functions
+- ☁️ Cloud Computing
+- 📊 Data Engineering
+- 🤖 Generative AI & LLMs
+
+---
+
+## 📌 Featured Projects
+
+📈 Sales Forecasting using LSTM, XGBoost & SARIMA
+
+🍽️ Zomato Clone
+
+🔐 Random Password Generator
+
+🐍 Snake Water Gun Game
+
+More exciting projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parthasarathisahoo-DeveloperE&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthasarathisahoo-Developer&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthasarathisahoo-Developer&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Parthasarathisahoo-Developer&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/parthasarathi-sahoo-55a353315?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Parthasarathisahoo-Developer">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:parthasarathisahoo376@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+<p align="center">
+Thanks for visiting my profile! ⭐ If you like my work, consider giving a star to my repositories.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+```
 
 
